@@ -1,0 +1,11 @@
+.Validation {
+  margin-top: 2em;
+}
+
+.good {
+  color: dodgerblue;
+}
+
+.warning {
+  color: lightcoral;
+}
